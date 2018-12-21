@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginFirebase</string>
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">REGISTER</string>
+    <string name="satu">Dani Permana</string>
+    <string name="dua">Elfari Tweranu</string>
+    <string name="tiga">Satria Arrisandy</string>
+    <string name="google">Sign In with Google</string>
+    <string name="logout">LOGOUT</string>
+</resources>
